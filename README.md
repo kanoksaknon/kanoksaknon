@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KANOKSAK SEESAOHAE
 ==========================================================================================================================================
 
-Student
+New graduated
 -------
-
-Currently studying in the 4th year of Sripatum University, interested in js, php, python, c++, c, sql, java.
 
 * 🌍  I'm based in Bankok,Thailand
 * 🖥️  See my portfolio at [RESUME](http://www.canva.com/design/DAGLTjWxsg0/PiTX6ISe4qYsMLDtCa1Xew/view?utm_content=DAGLTjWxsg0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
