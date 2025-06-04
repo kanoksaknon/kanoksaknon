@@ -5,9 +5,9 @@ New graduated
 -------
 
 * 🌍  I'm based in Bankok,Thailand
-* 🖥️  See my portfolio at [RESUME](http://www.canva.com/design/DAGLTjWxsg0/PiTX6ISe4qYsMLDtCa1Xew/view?utm_content=DAGLTjWxsg0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-* ✉️  You can contact me at [mokun46@gmail.com](mailto:mokun46@gmail.com)
-* 🧠  I'm learning JAVA, Flutter
+* 🖥️  See my portfolio at [RESUME]([http://www.canva.com/design/DAGLTjWxsg0/PiTX6ISe4qYsMLDtCa1Xew/view?utm_content=DAGLTjWxsg0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://drive.google.com/file/d/1OY6XehoI5T9qTxmaUpVeZMYw1hAl_akW/view?usp=sharing))
+* ✉️  You can contact me at [kanoksakseesaohae@gmail.com](mailto:kanoksakseesaohae@@gmail.com)
+* 🧠  I'm learning Golang, Hexa arh
 
 ### Skills
 
