@@ -5,7 +5,8 @@ New graduated
 -------
 
 * 🌍  I'm based in Bankok,Thailand
-* 🖥️  See my portfolio at [RESUME]([https://drive.google.com/file/d/1OY6XehoI5T9qTxmaUpVeZMYw1hAl_akW/view?usp=sharing])
+* 🖥️ See my portfolio at [RESUME](https://drive.google.com/file/d/1OY6XehoI5T9qTxmaUpVeZMYw1hAl_akW/view?usp=sharing)
+
 * ✉️  You can contact me at [kanoksakseesaohae@gmail.com](mailto:kanoksakseesaohae@@gmail.com)
 * 🧠  I'm learning Golang, Hexa arh
 
